@@ -1,4 +1,3 @@
-// modified from: https://gobyexample.com/interfaces
 package geometry
 
 import (
